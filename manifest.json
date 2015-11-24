@@ -1,0 +1,20 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_app_description__",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiT6ShSi6quD5QglQbVJAvJZYsVSluYAwBgFr6OxyLf6LsS1N6Dm0G8F2/nDq7RU5/KExHrOCUATHpo9EsvND1VWg9woLh8EuQRFKsGzG3iSVl2lwyuzwKKmFUmO5rYrN0rBdryEimMhFThRxgeHpoo0QqgeixR4nwhAvhDRWBtFFCBHbpi1W5VRkOtFwWTHygVFmaoBzQ9qndp+6ByXWX+qcsxMIxRjDj7rmazqwkW05W+mz0rJS2Mjfej6ZXodfMCKQQgW9EN3jr//4c+l6646muLCirpQmf5u1eckoGXe9jfkgLqw8hX571cJBz7qffGChGvf2huJ4wSyOmqH13wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_app_name__",
+   "permissions": [ "storage", "topSites", "chrome://favicon/", "http://cdn.usedelight.com/*", "http://a1.phobos.apple.com/*" ],
+   "short_name": "__MSG_app_short_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.5"
+}

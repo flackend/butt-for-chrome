@@ -1,0 +1,118 @@
+{
+   "add_location_text": {
+      "description": "Button to add currently-searched city to list of saved locations",
+      "message": "Add to my cities"
+   },
+   "app_description": {
+      "description": "The description of the application, displayed in the web store",
+      "message": "Replace the new tab with breathtaking HD videos. Including weather and time."
+   },
+   "app_name": {
+      "description": "The title of the application, displayed in the web store",
+      "message": "Butt for Chrome"
+   },
+   "app_short_name": {
+      "description": "The short title of the application, displayed in the web store and from the app launcher",
+      "message": "Butt"
+   },
+   "at_location_limit": {
+      "description": "Warning to indicate the user has added the maximum allowed amount of locations",
+      "message": "You’ve reached the 4 location limit. Remove a city before adding another one."
+   },
+   "battery_mode": {
+      "description": "Alerts the user that they are seeing the battery mode",
+      "message": "Eco mode"
+   },
+   "close_weather_preferences": {
+      "description": "Text for button to close weather preferences",
+      "message": "Done"
+   },
+   "configure_location_prompt": {
+      "description": "Prompt to configure the currently-previewing city before adding",
+      "message": "Configure time and temperature settings:"
+   },
+   "did_you_mean": {
+      "description": "Text to indicate other suggestions",
+      "message": "Did you mean:"
+   },
+   "existing_city_message": {
+      "description": "Displayed when a user attempts to add a city already in their list of cities.",
+      "message": "You've already added this city!"
+   },
+   "link_about": {
+      "description": "Title of link to open the About dialogue",
+      "message": "About"
+   },
+   "link_apps": {
+      "description": "Title of link to open the Apps page",
+      "message": "Apps"
+   },
+   "link_bookmarks": {
+      "description": "Title of link to open the Bookmarks page",
+      "message": "Bookmarks"
+   },
+   "link_history": {
+      "description": "Title of link to open the History page",
+      "message": "History"
+   },
+   "link_review": {
+      "description": "Title of link to review Delight",
+      "message": "Love Butts?"
+   },
+   "loading_videos": {
+      "description": "Alerts the user that videos are being loaded",
+      "message": "Loading videos..."
+   },
+   "location_not_found": {
+      "description": "Displayed when a searched location returned no results",
+      "message": "Sorry, we couldn't find that location."
+   },
+   "new_tab": {
+      "description": "Title of the New Tab page",
+      "message": "New Tab"
+   },
+   "no_connection": {
+      "description": "Alerts the user that they have no connection to the internet",
+      "message": "No internet connection"
+   },
+   "open_weather_preferences": {
+      "description": "Text for button to open weather preferences",
+      "message": "Add new city"
+   },
+   "placeholder_search_cities": {
+      "description": "Placeholder text in the city weather search input",
+      "message": "Search cities"
+   },
+   "sponsor_title": {
+      "description": "Title of link to Pagecloud sponsor",
+      "message": "Sponsor: PageCloud"
+   },
+   "title_settings": {
+      "description": "Title of the settings dropdown",
+      "message": "Settings"
+   },
+   "toggle_credits": {
+      "description": "Visibility toggle for the video's credit information",
+      "message": "Video Location"
+   },
+   "toggle_launchers": {
+      "description": "Visibility toggle for Chrome launcher links",
+      "message": "Launchers"
+   },
+   "toggle_topsites": {
+      "description": "Visibility toggle for top sites",
+      "message": "Most visited"
+   },
+   "toggle_video": {
+      "description": "Play toggle for the video",
+      "message": "Play video"
+   },
+   "toggle_weather": {
+      "description": "Visibility toggle for the weather and time widget",
+      "message": "Weather & time"
+   },
+   "weather_search_prompt": {
+      "description": "Prompt to search shown when no weather locations are saved",
+      "message": "View the weather and local time of a city by using the search field above."
+   }
+}
